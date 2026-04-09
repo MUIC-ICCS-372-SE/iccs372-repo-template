@@ -32,6 +32,8 @@ The `.github` folder contains issue and pull‑request templates to ensure disci
 │   └── workflows
 │       └── ci.yml                # Placeholder CI workflow
 └── docs
+    ├── general info
+    │   └── team-charter.md       # Team roles and responsibilities
     ├── architecture
     │   ├── architecture-page.md  # High-level architecture overview
     │   └── adrs
