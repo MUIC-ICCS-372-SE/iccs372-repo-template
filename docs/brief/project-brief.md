@@ -20,6 +20,10 @@ List features or complexities your team will intentionally not build (e.g., adva
 
 Define what a successful outcome looks like.  What specific benefits will users or stakeholders experience?  Tie these criteria back to the problem statement.
 
-## Assumptions & Constraints & Risks
+## Assumptions
 
-Note any external dependencies, technical constraints or assumptions (e.g., users have internet access; data can be stored locally). What are risks that something or the whole system might go wrong.
+Note down your assumptions (e.g., users have internet access; data can be stored locally). This must be clarified with the clients in meetings normally before proceeding with the project.
+
+## Constraints & Risks
+
+Note any external dependencies, technical constraints. What are risks that something or the whole system might go wrong.
